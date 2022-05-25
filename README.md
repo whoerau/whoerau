@@ -24,4 +24,4 @@
   ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=plastic&logo=mongodb)
 - ⚡️ Fun fact: I'm a huge fan of Iron Man, I love to eat and travel
 
-[![moshfiqrony's github stats](https://github-readme-stats.vercel.app/api?username=whoerau&theme=dark&show_icons=true)](https://github.com/whoerau)
+[![whoerau's github stats](https://github-readme-stats.vercel.app/api?username=whoerau&theme=dark&show_icons=true)](https://github.com/whoerau)
