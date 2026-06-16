@@ -31,7 +31,7 @@
   <br />
   <br />
 
-  <img src="https://github-readme-stats.vercel.app/api?username=whoerau&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&custom_title=SYSTEM%20TELEMETRY&bg_color=020617&title_color=22d3ee&text_color=cbd5e1&icon_color=00ff99" alt="System Telemetry" width="49%" />
-  <img src="https://streak-stats.demolab.com?user=whoerau&hide_border=true&background=020617&stroke=1e293b&ring=22d3ee&fire=00ff99&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=22d3ee&sideLabels=cbd5e1&dates=64748b" alt="Contribution Streak" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=whoerau&show_icons=true&hide_border=true&cache_seconds=14400&custom_title=SYSTEM%20TELEMETRY&bg_color=020617&title_color=22d3ee&text_color=cbd5e1&icon_color=00ff99" alt="System Telemetry" width="49%" />
+  <img src="https://streak-stats.demolab.com?user=whoerau&hide_border=true&card_width=467&card_height=195&background=020617&stroke=1e293b&ring=22d3ee&fire=00ff99&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=22d3ee&sideLabels=cbd5e1&dates=64748b" alt="Contribution Streak" width="49%" />
 
 </div>
