@@ -26,18 +26,12 @@
 
 <div align="center">
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=whoerau&theme=2077" alt="Profile Details" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=whoerau&bg_color=020617&color=67e8f9&line=22d3ee&point=ffffff&area=true&hide_border=true&custom_title=ACTIVITY%20MATRIX" alt="Activity Matrix" width="100%" />
 
   <br />
   <br />
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=whoerau&theme=2077" alt="Repos per Language" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=whoerau&theme=2077" alt="Most Commit Language" width="49%" />
-
-  <br />
-  <br />
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=whoerau&theme=2077" alt="GitHub Stats" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=whoerau&theme=2077&utcOffset=8" alt="Productive Time" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=whoerau&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&custom_title=SYSTEM%20TELEMETRY&bg_color=020617&title_color=22d3ee&text_color=cbd5e1&icon_color=00ff99" alt="System Telemetry" width="49%" />
+  <img src="https://streak-stats.demolab.com?user=whoerau&hide_border=true&background=020617&stroke=1e293b&ring=22d3ee&fire=00ff99&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=22d3ee&sideLabels=cbd5e1&dates=64748b" alt="Contribution Streak" width="49%" />
 
 </div>
