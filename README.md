@@ -28,7 +28,7 @@
 
 <div align="center">
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=whoerau&bg_color=1c1c1e&color=e5e5e5&line=34c759&point=ffc504&area=true&area_color=34c759&hide_border=true&title_color=e5e5e5&custom_title=CITY%20SIGNAL" alt="City Signal" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=whoerau&bg_color=1c1c1e&color=e5e5e5&line=6865c6&point=8583e9&area=true&area_color=6865c6&hide_border=true&title_color=e5e5e5&custom_title=CITY%20SIGNAL" alt="City Signal" width="100%" />
 
   <br />
   <br />
