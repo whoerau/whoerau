@@ -2,6 +2,8 @@
   <img src=".github/assets/city-console.svg" alt="City Signal Console" width="100%" />
 </p>
 
+[![XiDTJO.jpg](https://s1.ax1x.com/2022/05/25/XiDTJO.jpg)](https://imgtu.com/i/XiDTJO)
+
 <div align="center">
 
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=2600&pause=800&color=34C759&center=true&vCenter=true&width=720&lines=TERMINAL+ONLINE;CITY+FEED+ACTIVE;SIGNAL+%2F+CODE+%2F+NIGHT+WATCH" alt="Typing SVG" />
