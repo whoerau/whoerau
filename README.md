@@ -1,8 +1,8 @@
+[![XiDTJO.jpg](https://s1.ax1x.com/2022/05/25/XiDTJO.jpg)](https://imgtu.com/i/XiDTJO)
+
 <p align="center">
   <img src=".github/assets/city-console.svg" alt="City Signal Console" width="100%" />
 </p>
-
-[![XiDTJO.jpg](https://s1.ax1x.com/2022/05/25/XiDTJO.jpg)](https://imgtu.com/i/XiDTJO)
 
 <div align="center">
 
