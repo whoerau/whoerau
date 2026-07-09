@@ -1,0 +1,48 @@
+<svg width="1200" height="260" viewBox="0 0 1200 260" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="whoerau city signal console">
+  <defs>
+    <linearGradient id="screen" x1="0" y1="0" x2="1200" y2="260" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0b0b0b"/>
+      <stop offset="0.52" stop-color="#1d1d1f"/>
+      <stop offset="1" stop-color="#1c1c1e"/>
+    </linearGradient>
+    <linearGradient id="route" x1="232" y1="132" x2="1058" y2="132" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#8583e9"/>
+      <stop offset="0.42" stop-color="#34c759"/>
+      <stop offset="0.72" stop-color="#ffc504"/>
+      <stop offset="1" stop-color="#f4606c"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="260" rx="20" fill="#050505"/>
+  <rect x="18" y="18" width="1164" height="224" rx="14" fill="#1d1d1d" stroke="#303030"/>
+  <rect x="18" y="18" width="1164" height="42" rx="14" fill="#1c1c1e"/>
+  <rect x="18" y="48" width="1164" height="12" fill="#1c1c1e"/>
+  <circle cx="1148" cy="39" r="11" fill="#0b0b0b" stroke="#2c2c2c"/>
+  <circle cx="65" cy="39" r="5" fill="#f4606c"/>
+  <circle cx="84" cy="39" r="5" fill="#ffc504"/>
+  <circle cx="103" cy="39" r="5" fill="#34c759"/>
+  <text x="132" y="44" fill="#d8d8d8" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="700">whoerau://city-signal</text>
+  <text x="1010" y="44" fill="#8e8e8e" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700">v2026.07</text>
+
+  <rect x="42" y="82" width="150" height="128" rx="8" fill="#101010" stroke="#292929"/>
+  <rect x="58" y="99" width="118" height="28" rx="6" fill="#4f4f4f"/>
+  <text x="78" y="119" fill="#eeeeee" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="700">Overview</text>
+  <text x="78" y="153" fill="#cfcfcf" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700">Signals</text>
+  <text x="78" y="183" fill="#cfcfcf" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700">Projects</text>
+
+  <rect x="222" y="82" width="464" height="128" rx="8" fill="#111111" stroke="#292929"/>
+  <text x="242" y="112" fill="#a9a9a9" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="800" letter-spacing="1.7">TERMINAL ONLINE</text>
+  <text x="242" y="158" fill="#f2f2f2" font-family="Segoe UI, Arial, sans-serif" font-size="42" font-weight="800">CITY SIGNAL</text>
+  <text x="244" y="185" fill="#8e8e8e" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="700">code / network / night watch</text>
+  <rect x="514" y="116" width="132" height="12" rx="6" fill="#34c759"/>
+  <rect x="514" y="140" width="94" height="12" rx="6" fill="#ffc504"/>
+  <rect x="514" y="164" width="116" height="12" rx="6" fill="#f4606c"/>
+
+  <rect x="706" y="82" width="452" height="128" rx="8" fill="#111111" stroke="#292929"/>
+  <text x="728" y="112" fill="#a9a9a9" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="800" letter-spacing="1.7">CONNECTION TOPOLOGY</text>
+  <rect x="732" y="136" width="300" height="15" rx="3" fill="url(#route)"/>
+  <rect x="732" y="164" width="380" height="15" rx="3" fill="url(#route)" opacity="0.78"/>
+  <rect x="732" y="192" width="250" height="15" rx="3" fill="url(#route)" opacity="0.56"/>
+  <text x="742" y="129" fill="#d8d8d8" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700">source</text>
+  <text x="881" y="129" fill="#d8d8d8" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700">rules</text>
+  <text x="1018" y="129" fill="#d8d8d8" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700">exit</text>
+</svg>

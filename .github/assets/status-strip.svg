@@ -1,0 +1,26 @@
+<svg width="1000" height="150" viewBox="0 0 1000 150" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="profile status">
+  <rect x="0.5" y="0.5" width="999" height="149" rx="10" fill="#1c1c1e" stroke="#2b2b2b"/>
+  <rect x="18" y="18" width="964" height="114" rx="8" fill="#101010" stroke="#292929"/>
+  <text x="38" y="48" fill="#a9a9a9" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="800" letter-spacing="1.8">PROFILE STATUS</text>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <rect x="38" y="70" width="168" height="38" rx="6" fill="#1d1d1d"/>
+    <rect x="38" y="70" width="8" height="38" rx="4" fill="#34c759"/>
+    <text x="58" y="93" fill="#eeeeee" font-size="17" font-weight="800">512 repos</text>
+
+    <rect x="226" y="70" width="168" height="38" rx="6" fill="#1d1d1d"/>
+    <rect x="226" y="70" width="8" height="38" rx="4" fill="#ffc504"/>
+    <text x="246" y="93" fill="#eeeeee" font-size="17" font-weight="800">163 yearly</text>
+
+    <rect x="414" y="70" width="168" height="38" rx="6" fill="#1d1d1d"/>
+    <rect x="414" y="70" width="8" height="38" rx="4" fill="#f4606c"/>
+    <text x="434" y="93" fill="#eeeeee" font-size="17" font-weight="800">52 active days</text>
+
+    <rect x="602" y="70" width="168" height="38" rx="6" fill="#1d1d1d"/>
+    <rect x="602" y="70" width="8" height="38" rx="4" fill="#8583e9"/>
+    <text x="622" y="93" fill="#eeeeee" font-size="17" font-weight="800">10 stars</text>
+
+    <rect x="790" y="70" width="154" height="38" rx="6" fill="#1d1d1d"/>
+    <rect x="790" y="70" width="8" height="38" rx="4" fill="#34c759"/>
+    <text x="810" y="93" fill="#eeeeee" font-size="17" font-weight="800">since 2017</text>
+  </g>
+</svg>
